@@ -1,0 +1,31 @@
+{
+  "name": "studious-memory-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "*",
+    "mysql2": "*",
+    "sequelize": "*",
+    "dotenv": "*",
+    "bcrypt": "*",
+    "express-session": "*",
+    "connect-session-sequelize": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanep42/studious-memory-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanep42/studious-memory-blog/issues"
+  },
+  "homepage": "https://github.com/shanep42/studious-memory-blog#readme"
+}
